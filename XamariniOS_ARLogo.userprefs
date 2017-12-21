@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{013DA0F6-9E8E-40C3-B15D-1E28D95FE95A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Info.plist">
+    <Files>
+      <File FileName="AppDelegate.cs" Line="4" Column="28" />
+      <File FileName="RecognitionViewController.cs" Line="290" Column="1" />
+      <File FileName="Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamariniOS_ARLogo" expanded="True">
+            <Node name="XamariniOS_ARLogo" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="ExtraRendering" expanded="True" />
+              <Node name="markerImages" expanded="True" />
+              <Node name="Resources" expanded="True" />
+              <Node name="Info.plist" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamariniOS__ARLogo PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.b9984644fa672d860a24398e6fbec9a852fedce6" automaticSigning="False" />
+  <MultiItemStartupConfigurations />
+</Properties>
