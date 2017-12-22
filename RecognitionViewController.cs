@@ -81,7 +81,13 @@ namespace XamariniOS_ARLogo
                 break;
             }
         }
-        
+
+        [Export ("markerEngineToUpdate:")]
+        void MarkerEngineToUpdate(string markerId) {
+            Console.WriteLine("MarkerEngineToUpdate called! with Id = {0}", markerId);
+
+        }
+
 		#endregion
 		void ApplyCameraGlOrientation(UIInterfaceOrientation orientation) {
 			UIScreen mainScreen = UIScreen.MainScreen;
